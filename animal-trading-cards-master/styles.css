@@ -1,0 +1,30 @@
+.main {
+	box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+	width: 300px;
+}
+.card {
+	margin: auto;
+	border: 1px solid rgba(175, 175, 175, .45);
+	padding: 1em;
+}
+.picture {
+ 	margin-left: auto;
+  	margin-right: auto;
+	width: 300px;
+}
+.padout {
+	padding: 2px;
+}
+#special-fact {
+	font-style: italic;
+}
+div {
+	border-radius: 4%
+}
+
+li {
+	list-style: none;
+}
+span {
+	font-weight: bold;
+}
